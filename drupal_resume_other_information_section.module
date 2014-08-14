@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupal Resume Other Information Section feature.
+ */
+
+include_once 'drupal_resume_other_information_section.features.inc';
